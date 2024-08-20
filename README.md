@@ -18,4 +18,4 @@ This project involves creating an e-commerce website built with React and TypeSc
   - [DEMO LINK](https://serhiivoitiuk.github.io/E-Commerce-Website/)
 
 **Project design link**
-  - [BO landing](https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original?node-id=0-1&t=U4NC6c6v7vFolWe4-0)
+  - [Е-catalog](https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original?node-id=0-1&t=U4NC6c6v7vFolWe4-0)
